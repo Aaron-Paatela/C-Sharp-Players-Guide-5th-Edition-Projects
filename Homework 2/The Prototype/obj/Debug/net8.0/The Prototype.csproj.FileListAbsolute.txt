@@ -1,0 +1,14 @@
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\The Prototype\bin\Debug\net8.0\The Prototype.exe
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\The Prototype\bin\Debug\net8.0\The Prototype.deps.json
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\The Prototype\bin\Debug\net8.0\The Prototype.runtimeconfig.json
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\The Prototype\bin\Debug\net8.0\The Prototype.dll
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\The Prototype\bin\Debug\net8.0\The Prototype.pdb
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\The Prototype\obj\Debug\net8.0\The Prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\The Prototype\obj\Debug\net8.0\The Prototype.AssemblyInfoInputs.cache
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\The Prototype\obj\Debug\net8.0\The Prototype.AssemblyInfo.cs
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\The Prototype\obj\Debug\net8.0\The Prototype.csproj.CoreCompileInputs.cache
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\The Prototype\obj\Debug\net8.0\The Prototype.dll
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\The Prototype\obj\Debug\net8.0\refint\The Prototype.dll
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\The Prototype\obj\Debug\net8.0\The Prototype.pdb
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\The Prototype\obj\Debug\net8.0\The Prototype.genruntimeconfig.cache
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\The Prototype\obj\Debug\net8.0\ref\The Prototype.dll

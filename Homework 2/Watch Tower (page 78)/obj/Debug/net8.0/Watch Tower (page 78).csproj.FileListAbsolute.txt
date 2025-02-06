@@ -1,0 +1,14 @@
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Watch Tower (page 78)\bin\Debug\net8.0\Watch Tower (page 78).exe
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Watch Tower (page 78)\bin\Debug\net8.0\Watch Tower (page 78).deps.json
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Watch Tower (page 78)\bin\Debug\net8.0\Watch Tower (page 78).runtimeconfig.json
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Watch Tower (page 78)\bin\Debug\net8.0\Watch Tower (page 78).dll
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Watch Tower (page 78)\bin\Debug\net8.0\Watch Tower (page 78).pdb
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Watch Tower (page 78)\obj\Debug\net8.0\Watch Tower (page 78).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Watch Tower (page 78)\obj\Debug\net8.0\Watch Tower (page 78).AssemblyInfoInputs.cache
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Watch Tower (page 78)\obj\Debug\net8.0\Watch Tower (page 78).AssemblyInfo.cs
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Watch Tower (page 78)\obj\Debug\net8.0\Watch Tower (page 78).csproj.CoreCompileInputs.cache
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Watch Tower (page 78)\obj\Debug\net8.0\Watch Tower (page 78).dll
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Watch Tower (page 78)\obj\Debug\net8.0\refint\Watch Tower (page 78).dll
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Watch Tower (page 78)\obj\Debug\net8.0\Watch Tower (page 78).pdb
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Watch Tower (page 78)\obj\Debug\net8.0\Watch Tower (page 78).genruntimeconfig.cache
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Watch Tower (page 78)\obj\Debug\net8.0\ref\Watch Tower (page 78).dll

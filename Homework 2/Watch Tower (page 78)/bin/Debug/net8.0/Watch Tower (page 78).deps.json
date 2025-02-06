@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Watch Tower (page 78)/1.0.0": {
+        "runtime": {
+          "Watch Tower (page 78).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Watch Tower (page 78)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
