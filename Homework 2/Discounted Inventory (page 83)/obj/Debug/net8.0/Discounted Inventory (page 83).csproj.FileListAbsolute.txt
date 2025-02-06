@@ -1,0 +1,14 @@
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Discounted Inventory (page 83)\bin\Debug\net8.0\Discounted Inventory (page 83).exe
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Discounted Inventory (page 83)\bin\Debug\net8.0\Discounted Inventory (page 83).deps.json
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Discounted Inventory (page 83)\bin\Debug\net8.0\Discounted Inventory (page 83).runtimeconfig.json
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Discounted Inventory (page 83)\bin\Debug\net8.0\Discounted Inventory (page 83).dll
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Discounted Inventory (page 83)\bin\Debug\net8.0\Discounted Inventory (page 83).pdb
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Discounted Inventory (page 83)\obj\Debug\net8.0\Discounted Inventory (page 83).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Discounted Inventory (page 83)\obj\Debug\net8.0\Discounted Inventory (page 83).AssemblyInfoInputs.cache
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Discounted Inventory (page 83)\obj\Debug\net8.0\Discounted Inventory (page 83).AssemblyInfo.cs
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Discounted Inventory (page 83)\obj\Debug\net8.0\Discounted Inventory (page 83).csproj.CoreCompileInputs.cache
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Discounted Inventory (page 83)\obj\Debug\net8.0\Discounted Inventory (page 83).dll
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Discounted Inventory (page 83)\obj\Debug\net8.0\refint\Discounted Inventory (page 83).dll
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Discounted Inventory (page 83)\obj\Debug\net8.0\Discounted Inventory (page 83).pdb
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Discounted Inventory (page 83)\obj\Debug\net8.0\Discounted Inventory (page 83).genruntimeconfig.cache
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Discounted Inventory (page 83)\obj\Debug\net8.0\ref\Discounted Inventory (page 83).dll
