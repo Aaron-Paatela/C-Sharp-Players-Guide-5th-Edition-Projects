@@ -1,0 +1,14 @@
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Buying Inventory (page 82)\bin\Debug\net8.0\Buying Inventory (page 82).exe
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Buying Inventory (page 82)\bin\Debug\net8.0\Buying Inventory (page 82).deps.json
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Buying Inventory (page 82)\bin\Debug\net8.0\Buying Inventory (page 82).runtimeconfig.json
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Buying Inventory (page 82)\bin\Debug\net8.0\Buying Inventory (page 82).dll
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Buying Inventory (page 82)\bin\Debug\net8.0\Buying Inventory (page 82).pdb
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Buying Inventory (page 82)\obj\Debug\net8.0\Buying Inventory (page 82).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Buying Inventory (page 82)\obj\Debug\net8.0\Buying Inventory (page 82).AssemblyInfoInputs.cache
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Buying Inventory (page 82)\obj\Debug\net8.0\Buying Inventory (page 82).AssemblyInfo.cs
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Buying Inventory (page 82)\obj\Debug\net8.0\Buying Inventory (page 82).csproj.CoreCompileInputs.cache
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Buying Inventory (page 82)\obj\Debug\net8.0\Buying Inventory (page 82).dll
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Buying Inventory (page 82)\obj\Debug\net8.0\refint\Buying Inventory (page 82).dll
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Buying Inventory (page 82)\obj\Debug\net8.0\Buying Inventory (page 82).pdb
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Buying Inventory (page 82)\obj\Debug\net8.0\Buying Inventory (page 82).genruntimeconfig.cache
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Buying Inventory (page 82)\obj\Debug\net8.0\ref\Buying Inventory (page 82).dll
