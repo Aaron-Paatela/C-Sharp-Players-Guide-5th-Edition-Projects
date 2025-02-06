@@ -1,0 +1,14 @@
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\The Replicator of D'To (page 94)\bin\Debug\net8.0\The Replicator of D'To (page 94).exe
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\The Replicator of D'To (page 94)\bin\Debug\net8.0\The Replicator of D'To (page 94).deps.json
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\The Replicator of D'To (page 94)\bin\Debug\net8.0\The Replicator of D'To (page 94).runtimeconfig.json
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\The Replicator of D'To (page 94)\bin\Debug\net8.0\The Replicator of D'To (page 94).dll
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\The Replicator of D'To (page 94)\bin\Debug\net8.0\The Replicator of D'To (page 94).pdb
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\The Replicator of D'To (page 94)\obj\Debug\net8.0\The Replicator of D'To (page 94).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\The Replicator of D'To (page 94)\obj\Debug\net8.0\The Replicator of D'To (page 94).AssemblyInfoInputs.cache
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\The Replicator of D'To (page 94)\obj\Debug\net8.0\The Replicator of D'To (page 94).AssemblyInfo.cs
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\The Replicator of D'To (page 94)\obj\Debug\net8.0\The Replicator of D'To (page 94).csproj.CoreCompileInputs.cache
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\The Replicator of D'To (page 94)\obj\Debug\net8.0\The Replicator of D'To (page 94).dll
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\The Replicator of D'To (page 94)\obj\Debug\net8.0\refint\The Replicator of D'To (page 94).dll
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\The Replicator of D'To (page 94)\obj\Debug\net8.0\The Replicator of D'To (page 94).pdb
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\The Replicator of D'To (page 94)\obj\Debug\net8.0\The Replicator of D'To (page 94).genruntimeconfig.cache
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\The Replicator of D'To (page 94)\obj\Debug\net8.0\ref\The Replicator of D'To (page 94).dll
