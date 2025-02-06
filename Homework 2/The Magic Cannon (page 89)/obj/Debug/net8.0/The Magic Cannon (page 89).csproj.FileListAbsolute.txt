@@ -1,0 +1,14 @@
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\The Magic Cannon (page 89)\bin\Debug\net8.0\The Magic Cannon (page 89).exe
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\The Magic Cannon (page 89)\bin\Debug\net8.0\The Magic Cannon (page 89).deps.json
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\The Magic Cannon (page 89)\bin\Debug\net8.0\The Magic Cannon (page 89).runtimeconfig.json
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\The Magic Cannon (page 89)\bin\Debug\net8.0\The Magic Cannon (page 89).dll
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\The Magic Cannon (page 89)\bin\Debug\net8.0\The Magic Cannon (page 89).pdb
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\The Magic Cannon (page 89)\obj\Debug\net8.0\The Magic Cannon (page 89).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\The Magic Cannon (page 89)\obj\Debug\net8.0\The Magic Cannon (page 89).AssemblyInfoInputs.cache
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\The Magic Cannon (page 89)\obj\Debug\net8.0\The Magic Cannon (page 89).AssemblyInfo.cs
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\The Magic Cannon (page 89)\obj\Debug\net8.0\The Magic Cannon (page 89).csproj.CoreCompileInputs.cache
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\The Magic Cannon (page 89)\obj\Debug\net8.0\The Magic Cannon (page 89).dll
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\The Magic Cannon (page 89)\obj\Debug\net8.0\refint\The Magic Cannon (page 89).dll
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\The Magic Cannon (page 89)\obj\Debug\net8.0\The Magic Cannon (page 89).pdb
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\The Magic Cannon (page 89)\obj\Debug\net8.0\The Magic Cannon (page 89).genruntimeconfig.cache
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\The Magic Cannon (page 89)\obj\Debug\net8.0\ref\The Magic Cannon (page 89).dll
