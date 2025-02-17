@@ -1,0 +1,14 @@
+C:\Users\aaron\source\repos\FindMinMax\bin\Debug\net8.0\FindMinMax.exe
+C:\Users\aaron\source\repos\FindMinMax\bin\Debug\net8.0\FindMinMax.deps.json
+C:\Users\aaron\source\repos\FindMinMax\bin\Debug\net8.0\FindMinMax.runtimeconfig.json
+C:\Users\aaron\source\repos\FindMinMax\bin\Debug\net8.0\FindMinMax.dll
+C:\Users\aaron\source\repos\FindMinMax\bin\Debug\net8.0\FindMinMax.pdb
+C:\Users\aaron\source\repos\FindMinMax\obj\Debug\net8.0\FindMinMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\source\repos\FindMinMax\obj\Debug\net8.0\FindMinMax.AssemblyInfoInputs.cache
+C:\Users\aaron\source\repos\FindMinMax\obj\Debug\net8.0\FindMinMax.AssemblyInfo.cs
+C:\Users\aaron\source\repos\FindMinMax\obj\Debug\net8.0\FindMinMax.csproj.CoreCompileInputs.cache
+C:\Users\aaron\source\repos\FindMinMax\obj\Debug\net8.0\FindMinMax.dll
+C:\Users\aaron\source\repos\FindMinMax\obj\Debug\net8.0\refint\FindMinMax.dll
+C:\Users\aaron\source\repos\FindMinMax\obj\Debug\net8.0\FindMinMax.pdb
+C:\Users\aaron\source\repos\FindMinMax\obj\Debug\net8.0\FindMinMax.genruntimeconfig.cache
+C:\Users\aaron\source\repos\FindMinMax\obj\Debug\net8.0\ref\FindMinMax.dll
