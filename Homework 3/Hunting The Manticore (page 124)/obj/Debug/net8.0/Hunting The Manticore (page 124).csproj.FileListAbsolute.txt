@@ -1,0 +1,14 @@
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Hunting The Manticore (page 124)\bin\Debug\net8.0\Hunting The Manticore (page 124).exe
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Hunting The Manticore (page 124)\bin\Debug\net8.0\Hunting The Manticore (page 124).deps.json
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Hunting The Manticore (page 124)\bin\Debug\net8.0\Hunting The Manticore (page 124).runtimeconfig.json
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Hunting The Manticore (page 124)\bin\Debug\net8.0\Hunting The Manticore (page 124).dll
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Hunting The Manticore (page 124)\bin\Debug\net8.0\Hunting The Manticore (page 124).pdb
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Hunting The Manticore (page 124)\obj\Debug\net8.0\Hunting The Manticore (page 124).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Hunting The Manticore (page 124)\obj\Debug\net8.0\Hunting The Manticore (page 124).AssemblyInfoInputs.cache
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Hunting The Manticore (page 124)\obj\Debug\net8.0\Hunting The Manticore (page 124).AssemblyInfo.cs
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Hunting The Manticore (page 124)\obj\Debug\net8.0\Hunting The Manticore (page 124).csproj.CoreCompileInputs.cache
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Hunting The Manticore (page 124)\obj\Debug\net8.0\Hunting The Manticore (page 124).dll
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Hunting The Manticore (page 124)\obj\Debug\net8.0\refint\Hunting The Manticore (page 124).dll
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Hunting The Manticore (page 124)\obj\Debug\net8.0\Hunting The Manticore (page 124).pdb
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Hunting The Manticore (page 124)\obj\Debug\net8.0\Hunting The Manticore (page 124).genruntimeconfig.cache
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Hunting The Manticore (page 124)\obj\Debug\net8.0\ref\Hunting The Manticore (page 124).dll
