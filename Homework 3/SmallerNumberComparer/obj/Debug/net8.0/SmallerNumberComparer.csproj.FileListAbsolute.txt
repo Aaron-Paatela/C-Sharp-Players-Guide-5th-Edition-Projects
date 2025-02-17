@@ -1,0 +1,14 @@
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\SmallerNumberComparer\bin\Debug\net8.0\SmallerNumberComparer.exe
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\SmallerNumberComparer\bin\Debug\net8.0\SmallerNumberComparer.deps.json
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\SmallerNumberComparer\bin\Debug\net8.0\SmallerNumberComparer.runtimeconfig.json
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\SmallerNumberComparer\bin\Debug\net8.0\SmallerNumberComparer.dll
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\SmallerNumberComparer\bin\Debug\net8.0\SmallerNumberComparer.pdb
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\SmallerNumberComparer\obj\Debug\net8.0\SmallerNumberComparer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\SmallerNumberComparer\obj\Debug\net8.0\SmallerNumberComparer.AssemblyInfoInputs.cache
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\SmallerNumberComparer\obj\Debug\net8.0\SmallerNumberComparer.AssemblyInfo.cs
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\SmallerNumberComparer\obj\Debug\net8.0\SmallerNumberComparer.csproj.CoreCompileInputs.cache
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\SmallerNumberComparer\obj\Debug\net8.0\SmallerNumberComparer.dll
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\SmallerNumberComparer\obj\Debug\net8.0\refint\SmallerNumberComparer.dll
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\SmallerNumberComparer\obj\Debug\net8.0\SmallerNumberComparer.pdb
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\SmallerNumberComparer\obj\Debug\net8.0\SmallerNumberComparer.genruntimeconfig.cache
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\SmallerNumberComparer\obj\Debug\net8.0\ref\SmallerNumberComparer.dll
