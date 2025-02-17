@@ -1,0 +1,14 @@
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\NextLetterReplacer\bin\Debug\net8.0\NextLetterReplacer.exe
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\NextLetterReplacer\bin\Debug\net8.0\NextLetterReplacer.deps.json
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\NextLetterReplacer\bin\Debug\net8.0\NextLetterReplacer.runtimeconfig.json
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\NextLetterReplacer\bin\Debug\net8.0\NextLetterReplacer.dll
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\NextLetterReplacer\bin\Debug\net8.0\NextLetterReplacer.pdb
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\NextLetterReplacer\obj\Debug\net8.0\NextLetterReplacer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\NextLetterReplacer\obj\Debug\net8.0\NextLetterReplacer.AssemblyInfoInputs.cache
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\NextLetterReplacer\obj\Debug\net8.0\NextLetterReplacer.AssemblyInfo.cs
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\NextLetterReplacer\obj\Debug\net8.0\NextLetterReplacer.csproj.CoreCompileInputs.cache
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\NextLetterReplacer\obj\Debug\net8.0\NextLetterReplacer.dll
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\NextLetterReplacer\obj\Debug\net8.0\refint\NextLetterReplacer.dll
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\NextLetterReplacer\obj\Debug\net8.0\NextLetterReplacer.pdb
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\NextLetterReplacer\obj\Debug\net8.0\NextLetterReplacer.genruntimeconfig.cache
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\NextLetterReplacer\obj\Debug\net8.0\ref\NextLetterReplacer.dll
