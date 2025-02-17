@@ -1,0 +1,14 @@
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\CapitalDCounter\obj\Debug\net8.0\CapitalDCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\CapitalDCounter\obj\Debug\net8.0\CapitalDCounter.AssemblyInfoInputs.cache
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\CapitalDCounter\obj\Debug\net8.0\CapitalDCounter.AssemblyInfo.cs
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\CapitalDCounter\obj\Debug\net8.0\CapitalDCounter.csproj.CoreCompileInputs.cache
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\CapitalDCounter\bin\Debug\net8.0\CapitalDCounter.exe
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\CapitalDCounter\bin\Debug\net8.0\CapitalDCounter.deps.json
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\CapitalDCounter\bin\Debug\net8.0\CapitalDCounter.runtimeconfig.json
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\CapitalDCounter\bin\Debug\net8.0\CapitalDCounter.dll
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\CapitalDCounter\bin\Debug\net8.0\CapitalDCounter.pdb
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\CapitalDCounter\obj\Debug\net8.0\CapitalDCounter.dll
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\CapitalDCounter\obj\Debug\net8.0\refint\CapitalDCounter.dll
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\CapitalDCounter\obj\Debug\net8.0\CapitalDCounter.pdb
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\CapitalDCounter\obj\Debug\net8.0\CapitalDCounter.genruntimeconfig.cache
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\CapitalDCounter\obj\Debug\net8.0\ref\CapitalDCounter.dll
