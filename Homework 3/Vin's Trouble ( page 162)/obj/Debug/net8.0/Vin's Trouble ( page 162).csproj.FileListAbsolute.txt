@@ -1,0 +1,14 @@
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Vin's Trouble ( page 162)\bin\Debug\net8.0\Vin's Trouble ( page 162).exe
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Vin's Trouble ( page 162)\bin\Debug\net8.0\Vin's Trouble ( page 162).deps.json
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Vin's Trouble ( page 162)\bin\Debug\net8.0\Vin's Trouble ( page 162).runtimeconfig.json
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Vin's Trouble ( page 162)\bin\Debug\net8.0\Vin's Trouble ( page 162).dll
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Vin's Trouble ( page 162)\bin\Debug\net8.0\Vin's Trouble ( page 162).pdb
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Vin's Trouble ( page 162)\obj\Debug\net8.0\Vin's Trouble ( page 162).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Vin's Trouble ( page 162)\obj\Debug\net8.0\Vin's Trouble ( page 162).AssemblyInfoInputs.cache
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Vin's Trouble ( page 162)\obj\Debug\net8.0\Vin's Trouble ( page 162).AssemblyInfo.cs
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Vin's Trouble ( page 162)\obj\Debug\net8.0\Vin's Trouble ( page 162).csproj.CoreCompileInputs.cache
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Vin's Trouble ( page 162)\obj\Debug\net8.0\Vin's Trouble ( page 162).dll
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Vin's Trouble ( page 162)\obj\Debug\net8.0\refint\Vin's Trouble ( page 162).dll
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Vin's Trouble ( page 162)\obj\Debug\net8.0\Vin's Trouble ( page 162).pdb
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Vin's Trouble ( page 162)\obj\Debug\net8.0\Vin's Trouble ( page 162).genruntimeconfig.cache
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Vin's Trouble ( page 162)\obj\Debug\net8.0\ref\Vin's Trouble ( page 162).dll

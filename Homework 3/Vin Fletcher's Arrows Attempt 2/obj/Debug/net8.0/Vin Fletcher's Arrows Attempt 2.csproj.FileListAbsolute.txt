@@ -1,0 +1,14 @@
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Vin Fletcher's Arrows Attempt 2\bin\Debug\net8.0\Vin Fletcher's Arrows Attempt 2.exe
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Vin Fletcher's Arrows Attempt 2\bin\Debug\net8.0\Vin Fletcher's Arrows Attempt 2.deps.json
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Vin Fletcher's Arrows Attempt 2\bin\Debug\net8.0\Vin Fletcher's Arrows Attempt 2.runtimeconfig.json
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Vin Fletcher's Arrows Attempt 2\bin\Debug\net8.0\Vin Fletcher's Arrows Attempt 2.dll
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Vin Fletcher's Arrows Attempt 2\bin\Debug\net8.0\Vin Fletcher's Arrows Attempt 2.pdb
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Vin Fletcher's Arrows Attempt 2\obj\Debug\net8.0\Vin Fletcher's Arrows Attempt 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Vin Fletcher's Arrows Attempt 2\obj\Debug\net8.0\Vin Fletcher's Arrows Attempt 2.AssemblyInfoInputs.cache
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Vin Fletcher's Arrows Attempt 2\obj\Debug\net8.0\Vin Fletcher's Arrows Attempt 2.AssemblyInfo.cs
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Vin Fletcher's Arrows Attempt 2\obj\Debug\net8.0\Vin Fletcher's Arrows Attempt 2.csproj.CoreCompileInputs.cache
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Vin Fletcher's Arrows Attempt 2\obj\Debug\net8.0\Vin Fletcher's Arrows Attempt 2.dll
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Vin Fletcher's Arrows Attempt 2\obj\Debug\net8.0\refint\Vin Fletcher's Arrows Attempt 2.dll
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Vin Fletcher's Arrows Attempt 2\obj\Debug\net8.0\Vin Fletcher's Arrows Attempt 2.pdb
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Vin Fletcher's Arrows Attempt 2\obj\Debug\net8.0\Vin Fletcher's Arrows Attempt 2.genruntimeconfig.cache
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Vin Fletcher's Arrows Attempt 2\obj\Debug\net8.0\ref\Vin Fletcher's Arrows Attempt 2.dll
