@@ -1,0 +1,14 @@
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\AbsValueSumCalc\bin\Debug\net8.0\AbsValueSumCalc.exe
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\AbsValueSumCalc\bin\Debug\net8.0\AbsValueSumCalc.deps.json
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\AbsValueSumCalc\bin\Debug\net8.0\AbsValueSumCalc.runtimeconfig.json
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\AbsValueSumCalc\bin\Debug\net8.0\AbsValueSumCalc.dll
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\AbsValueSumCalc\bin\Debug\net8.0\AbsValueSumCalc.pdb
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\AbsValueSumCalc\obj\Debug\net8.0\AbsValueSumCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\AbsValueSumCalc\obj\Debug\net8.0\AbsValueSumCalc.AssemblyInfoInputs.cache
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\AbsValueSumCalc\obj\Debug\net8.0\AbsValueSumCalc.AssemblyInfo.cs
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\AbsValueSumCalc\obj\Debug\net8.0\AbsValueSumCalc.csproj.CoreCompileInputs.cache
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\AbsValueSumCalc\obj\Debug\net8.0\AbsValueSumCalc.dll
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\AbsValueSumCalc\obj\Debug\net8.0\refint\AbsValueSumCalc.dll
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\AbsValueSumCalc\obj\Debug\net8.0\AbsValueSumCalc.pdb
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\AbsValueSumCalc\obj\Debug\net8.0\AbsValueSumCalc.genruntimeconfig.cache
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\AbsValueSumCalc\obj\Debug\net8.0\ref\AbsValueSumCalc.dll
