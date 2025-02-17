@@ -33,9 +33,9 @@ namespace SmallerNumberComparer
             else
             {
                 // If the numbers are equal in length, you compare each number one by one
-                // This works without conversion because in ASCII, each number 0 - 9
+                // This works without conversion because in the encoding, each number 0 - 9
                 // is valued lower than the one above it.  In other words,
-                // the ASCII value for 0 < ASCII value for 1 < ACSII value for 2
+                // the value for 0 < value for 1 < value for 2
                 // I had to look this up to figure out how I could compare the numbers
                 // without converting to integers.
                 for (int i = 0; i < num1.Length; i++)
