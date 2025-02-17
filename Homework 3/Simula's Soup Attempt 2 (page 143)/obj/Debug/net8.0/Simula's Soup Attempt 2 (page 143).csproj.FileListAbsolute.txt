@@ -1,0 +1,14 @@
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Simula's Soup Attempt 2 (page 143)\bin\Debug\net8.0\Simula's Soup Attempt 2 (page 143).exe
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Simula's Soup Attempt 2 (page 143)\bin\Debug\net8.0\Simula's Soup Attempt 2 (page 143).deps.json
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Simula's Soup Attempt 2 (page 143)\bin\Debug\net8.0\Simula's Soup Attempt 2 (page 143).runtimeconfig.json
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Simula's Soup Attempt 2 (page 143)\bin\Debug\net8.0\Simula's Soup Attempt 2 (page 143).dll
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Simula's Soup Attempt 2 (page 143)\bin\Debug\net8.0\Simula's Soup Attempt 2 (page 143).pdb
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Simula's Soup Attempt 2 (page 143)\obj\Debug\net8.0\Simula's Soup Attempt 2 (page 143).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Simula's Soup Attempt 2 (page 143)\obj\Debug\net8.0\Simula's Soup Attempt 2 (page 143).AssemblyInfoInputs.cache
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Simula's Soup Attempt 2 (page 143)\obj\Debug\net8.0\Simula's Soup Attempt 2 (page 143).AssemblyInfo.cs
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Simula's Soup Attempt 2 (page 143)\obj\Debug\net8.0\Simula's Soup Attempt 2 (page 143).csproj.CoreCompileInputs.cache
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Simula's Soup Attempt 2 (page 143)\obj\Debug\net8.0\Simula's Soup Attempt 2 (page 143).dll
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Simula's Soup Attempt 2 (page 143)\obj\Debug\net8.0\refint\Simula's Soup Attempt 2 (page 143).dll
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Simula's Soup Attempt 2 (page 143)\obj\Debug\net8.0\Simula's Soup Attempt 2 (page 143).pdb
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Simula's Soup Attempt 2 (page 143)\obj\Debug\net8.0\Simula's Soup Attempt 2 (page 143).genruntimeconfig.cache
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Simula's Soup Attempt 2 (page 143)\obj\Debug\net8.0\ref\Simula's Soup Attempt 2 (page 143).dll

@@ -1,0 +1,14 @@
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\MultiplyValuesByLength\bin\Debug\net8.0\MultiplyValuesByLength.exe
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\MultiplyValuesByLength\bin\Debug\net8.0\MultiplyValuesByLength.deps.json
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\MultiplyValuesByLength\bin\Debug\net8.0\MultiplyValuesByLength.runtimeconfig.json
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\MultiplyValuesByLength\bin\Debug\net8.0\MultiplyValuesByLength.dll
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\MultiplyValuesByLength\bin\Debug\net8.0\MultiplyValuesByLength.pdb
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\MultiplyValuesByLength\obj\Debug\net8.0\MultiplyValuesByLength.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\MultiplyValuesByLength\obj\Debug\net8.0\MultiplyValuesByLength.AssemblyInfoInputs.cache
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\MultiplyValuesByLength\obj\Debug\net8.0\MultiplyValuesByLength.AssemblyInfo.cs
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\MultiplyValuesByLength\obj\Debug\net8.0\MultiplyValuesByLength.csproj.CoreCompileInputs.cache
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\MultiplyValuesByLength\obj\Debug\net8.0\MultiplyValuesByLength.dll
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\MultiplyValuesByLength\obj\Debug\net8.0\refint\MultiplyValuesByLength.dll
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\MultiplyValuesByLength\obj\Debug\net8.0\MultiplyValuesByLength.pdb
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\MultiplyValuesByLength\obj\Debug\net8.0\MultiplyValuesByLength.genruntimeconfig.cache
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\MultiplyValuesByLength\obj\Debug\net8.0\ref\MultiplyValuesByLength.dll
