@@ -1,0 +1,14 @@
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Shapes and Areas\obj\Debug\net8.0\Shapes and Areas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Shapes and Areas\obj\Debug\net8.0\Shapes and Areas.AssemblyInfoInputs.cache
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Shapes and Areas\obj\Debug\net8.0\Shapes and Areas.AssemblyInfo.cs
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Shapes and Areas\obj\Debug\net8.0\Shapes and Areas.csproj.CoreCompileInputs.cache
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Shapes and Areas\bin\Debug\net8.0\Shapes and Areas.exe
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Shapes and Areas\bin\Debug\net8.0\Shapes and Areas.deps.json
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Shapes and Areas\bin\Debug\net8.0\Shapes and Areas.runtimeconfig.json
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Shapes and Areas\bin\Debug\net8.0\Shapes and Areas.dll
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Shapes and Areas\bin\Debug\net8.0\Shapes and Areas.pdb
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Shapes and Areas\obj\Debug\net8.0\Shapes and Areas.dll
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Shapes and Areas\obj\Debug\net8.0\refint\Shapes and Areas.dll
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Shapes and Areas\obj\Debug\net8.0\Shapes and Areas.pdb
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Shapes and Areas\obj\Debug\net8.0\Shapes and Areas.genruntimeconfig.cache
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Shapes and Areas\obj\Debug\net8.0\ref\Shapes and Areas.dll
