@@ -1,0 +1,14 @@
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Animals and Sounds\bin\Debug\net8.0\Animals and Sounds.exe
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Animals and Sounds\bin\Debug\net8.0\Animals and Sounds.deps.json
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Animals and Sounds\bin\Debug\net8.0\Animals and Sounds.runtimeconfig.json
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Animals and Sounds\bin\Debug\net8.0\Animals and Sounds.dll
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Animals and Sounds\bin\Debug\net8.0\Animals and Sounds.pdb
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Animals and Sounds\obj\Debug\net8.0\Animals and Sounds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Animals and Sounds\obj\Debug\net8.0\Animals and Sounds.AssemblyInfoInputs.cache
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Animals and Sounds\obj\Debug\net8.0\Animals and Sounds.AssemblyInfo.cs
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Animals and Sounds\obj\Debug\net8.0\Animals and Sounds.csproj.CoreCompileInputs.cache
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Animals and Sounds\obj\Debug\net8.0\Animals and Sounds.dll
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Animals and Sounds\obj\Debug\net8.0\refint\Animals and Sounds.dll
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Animals and Sounds\obj\Debug\net8.0\Animals and Sounds.pdb
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Animals and Sounds\obj\Debug\net8.0\Animals and Sounds.genruntimeconfig.cache
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Animals and Sounds\obj\Debug\net8.0\ref\Animals and Sounds.dll

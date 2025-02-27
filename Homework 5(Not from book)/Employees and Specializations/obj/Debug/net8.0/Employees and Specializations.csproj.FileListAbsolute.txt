@@ -1,0 +1,14 @@
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Employees and Specializations\bin\Debug\net8.0\Employees and Specializations.exe
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Employees and Specializations\bin\Debug\net8.0\Employees and Specializations.deps.json
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Employees and Specializations\bin\Debug\net8.0\Employees and Specializations.runtimeconfig.json
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Employees and Specializations\bin\Debug\net8.0\Employees and Specializations.dll
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Employees and Specializations\bin\Debug\net8.0\Employees and Specializations.pdb
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Employees and Specializations\obj\Debug\net8.0\Employees and Specializations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Employees and Specializations\obj\Debug\net8.0\Employees and Specializations.AssemblyInfoInputs.cache
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Employees and Specializations\obj\Debug\net8.0\Employees and Specializations.AssemblyInfo.cs
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Employees and Specializations\obj\Debug\net8.0\Employees and Specializations.csproj.CoreCompileInputs.cache
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Employees and Specializations\obj\Debug\net8.0\Employees and Specializations.dll
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Employees and Specializations\obj\Debug\net8.0\refint\Employees and Specializations.dll
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Employees and Specializations\obj\Debug\net8.0\Employees and Specializations.pdb
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Employees and Specializations\obj\Debug\net8.0\Employees and Specializations.genruntimeconfig.cache
+C:\Users\aaron\source\repos\C# Players Guide 5th Edition Book Projects\Employees and Specializations\obj\Debug\net8.0\ref\Employees and Specializations.dll
